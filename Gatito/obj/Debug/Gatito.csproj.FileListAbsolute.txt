@@ -1,0 +1,7 @@
+C:\Users\froyl\Desktop\Gatito\Gatito\Gatito\obj\Debug\Gatito.csproj.AssemblyReference.cache
+C:\Users\froyl\Desktop\Gatito\Gatito\Gatito\obj\Debug\Gatito.csproj.CoreCompileInputs.cache
+C:\Users\froyl\Desktop\Gatito\Gatito\Gatito\bin\Debug\Gatito.exe.config
+C:\Users\froyl\Desktop\Gatito\Gatito\Gatito\bin\Debug\Gatito.exe
+C:\Users\froyl\Desktop\Gatito\Gatito\Gatito\bin\Debug\Gatito.pdb
+C:\Users\froyl\Desktop\Gatito\Gatito\Gatito\obj\Debug\Gatito.exe
+C:\Users\froyl\Desktop\Gatito\Gatito\Gatito\obj\Debug\Gatito.pdb
